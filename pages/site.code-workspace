@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../website2/awv"
+		},
+		{
+			"path": "../../../../website2/awv2"
+		},
+		{
+			"path": "../../../../../AWV/Website/commerce"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}

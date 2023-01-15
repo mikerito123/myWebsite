@@ -8,7 +8,6 @@ class MyDocument extends Document {
         <body className="loading bg-black">
           <Main />
           <NextScript />
-          {/* <h1>yo</h1> */}
         </body>
       </Html>
     )
